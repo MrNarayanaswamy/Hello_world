@@ -8,9 +8,10 @@ public class Godady {
 	
 	 public static WebDriver driver;
 	public static void main (String []args){
-		System.setProperty("webdriver.chrome.driver",	"C:\\Users\\PTBLR-1193\\Downloads\\Firefox\\chromedriver.exe");
+		/*System.setProperty("webdriver.chrome.driver",	"C:\\Users\\PTBLR-1193\\Downloads\\Firefox\\chromedriver.exe");
 		driver = new ChromeDriver();
-		driver.get("google.co.in");
-	}
+		driver.get("http://www.google.co.in");*/
+	System.out.println("kkkkkkkkkkkkkkkkkkkkkkkkkkk");}
 
 }
+
